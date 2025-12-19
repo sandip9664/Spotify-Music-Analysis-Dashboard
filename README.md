@@ -6,3 +6,7 @@ Developed a comprehensive data visualization dashboard to analyze Spotify stream
 - 🧩 Comparative insights between artist popularity vs. actual stream counts
 Key Skills & Tools: Data Analysis, Dashboard Design, Data Visualization, Reporting, Trend Analysis, GitHub Collaboration
 Impact: Delivered actionable insights into global music consumption patterns, enabling better understanding of audience preferences and industry trends.
+
+## 📊 Dashboard Preview
+![Spotify Dashboard](spotify_dashboard.jpeg)
+
